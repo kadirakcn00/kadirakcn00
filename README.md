@@ -4,4 +4,6 @@ I'm Abdulkadir and I'm Computer Engineering student. Generally I interested in w
 - 🔭 I’m currently working on Java and JavaScript
 - 🌱 I’m currently learning Web Coding 
 - 📫 How to reach me: https://tr.linkedin.com/in/abdulkadir-akcan-a86a40296
+- LeedCode:
+https://leetcode.com/u/kadrakcan/
 
