@@ -6,6 +6,8 @@ I'm Abdulkadir and I'm Computer Engineering student. Generally I interested in w
 - 📫 How to reach me: https://tr.linkedin.com/in/abdulkadir-akcan-a86a40296
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kadrakcan)](https://leetcode.com/kadrakcan)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kadrakcan?theme=dark&extension=activity)](https://leetcode.com/kadrakcan)
+
 
 
 
