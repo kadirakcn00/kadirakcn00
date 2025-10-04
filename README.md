@@ -5,7 +5,7 @@ I'm Abdulkadir and I'm Computer Engineering student. Generally I interested in w
 - 🌱 I’m currently learning Web Coding 
 - 📫 How to reach me: https://tr.linkedin.com/in/abdulkadir-akcan-a86a40296
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kadrakcan)](https://leetcode.com/kadrakcan)
+[![LeetCode Activity](https://leetcard.jacoblin.cool/kadrakcan?theme=dark&ext=heatmap)](https://leetcode.com/kadrakcan)
 
 
 
